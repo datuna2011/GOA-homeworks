@@ -1,0 +1,7 @@
+
+a:active {
+    color: red   
+    font-size 2em
+    font-family cursive
+    letter-spacing 10px
+   }
