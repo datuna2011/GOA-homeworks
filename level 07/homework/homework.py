@@ -21,7 +21,3 @@ print(input_number4-input_number1)
 print(input_number3+input_number4)
 print(input_number2-input_number1)
 print(input_number3*input_number2)
-
-
-
-
