@@ -1,0 +1,76 @@
+h1{
+    color:#55ff00;
+    font-size: 30px;
+    text-decoration:underline ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+ }
+
+h2{
+    color: cadetblue;
+    font-size: 30px;
+    text-decoration:line-through;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+ }
+ h3{
+    color: red; 
+    font-size: 30px; ;
+    font-family: cursive;
+    text-align: center;
+ }
+ul{
+    color: rgb(21, 255, 0) ;
+    font-size: 30px;
+    text-decoration: underline;
+    font-family:cursive;
+    text-align: center;
+
+}
+ol{
+    color:rgb(20, 10, 221) ;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+
+}
+li{
+    color:#000000;
+    font-size: 30px;
+    text-align: center;
+    text-decoration:underline;
+
+}
+h4{
+    color:aquamarine;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: cursive;
+
+}
+h5{
+    color:cadetblue;
+    font-size: 30px;
+    text-align: center;
+    text-decoration:line-through;
+    font-family: cursive;
+
+}
+h6{
+    color:red;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    font-family: fantasy;
+
+}
+
+p{
+    color:yellow;
+    font-size: 30px;
+    text-align: center;
+    font-family: fantasy;
+    text-decoration: none;
+    
+}
