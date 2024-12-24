@@ -1,0 +1,97 @@
+h1{
+    color: rgb(40, 255, 2);
+    letter-spacing: 3px;
+    text-decoration: underline;
+    text-align: center;
+    font-family: fantasy;
+}
+ 
+
+h2{
+    color: aqua;
+    text-decoration: underline;
+    font-family: cursive;
+    text-align: center;
+
+}
+
+
+h3{
+    color: blue;
+    text-align: center;
+    text-decoration: dashed;
+    font-family: monospace;
+    
+}
+
+
+h4{
+    color: red;
+    background-color: rgb(1, 255, 1);
+    text-align: center;
+    text-decoration: line-through;
+
+}
+
+
+h5{
+    color: rgb(68, 0, 255);
+    text-align: center;
+    text-decoration: overline;
+    letter-spacing: 4px;
+
+}
+
+
+h6{
+    color: rgb(0, 255, 55);
+    text-align: center;
+    text-decoration: double;
+    background-color: red;
+
+}
+
+
+b{
+    color: aqua;
+    text-decoration: overline;
+    text-align: center;
+
+}
+
+
+p{
+    color: rgb(215, 245, 17);
+    text-decoration: line-through;
+    text-align: center;
+    letter-spacing: 4px;
+
+}
+
+
+
+i{
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+    font-family: cursive;
+
+}
+
+
+ul{
+    color: rgb(12, 247, 12);
+    text-align: center;
+    text-decoration: overline;
+    letter-spacing: 3px;
+
+}
+
+
+ol{
+    color: rgb(0, 255, 0);
+    text-align: center;
+    font-family: fantasy;
+    letter-spacing: 3px;
+
+}
