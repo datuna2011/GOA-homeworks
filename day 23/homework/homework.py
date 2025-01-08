@@ -5,5 +5,5 @@
 def words(goa):
     words = goa.split()  
     return len(words)  
-word = "keygbuvytryuuwgiyguiwg5u"
+word = "GOA is the best"
 print(words(word))
