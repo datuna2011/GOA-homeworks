@@ -11,4 +11,10 @@ first_half = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 second_half = numbers[-5]
 print(first_half)
 # Use a list comprehension to create a new list named squares that contains the squares of each number in the numbers list.
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+squares = [x**2 for x in numbers]
+print(squares)
 # Print all three lists: first_half, second_half, and squares.
+print(second_half)
+print(squares)
+print(first_half)
